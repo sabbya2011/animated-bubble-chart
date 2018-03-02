@@ -1,0 +1,22 @@
+.clickToChangeByGroupChart {
+  position: absolute;
+  z-index: 10;
+}
+
+.grpbyGroupSVGContainer {
+  position: absolute;
+  height: 500px;
+  width: 100%;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid rebeccapurple;
+}
+
+
+/*.line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+}*/
